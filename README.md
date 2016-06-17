@@ -1,11 +1,5 @@
 # walmart_sales_forecast
-Code for the walmart sales forecast kaggle competition.
-
-Required files are downloadable from the historical kaggle competition.
-
-https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
-
-Once the training, test, and store files are in the same directory as final_model.py, the code executes in about 20 minutes.
+Code for the walmart sales forecast kaggle competition. Required files are downloadable from the historical kaggle competition. https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data Once the training, test, and store files are in the same directory as final_model.py, the code executes in about 20 minutes.
 
 This is free and unencumbered software released into the public domain.
 
